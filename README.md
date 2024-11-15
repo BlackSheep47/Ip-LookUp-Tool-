@@ -22,7 +22,8 @@ This tool create a `.json` file and store all the infromation in it for your tar
 > [!Note]
 > Special Thank you
 > https://github.com/EbolaMan-YT for color grading text code in batch
-> 
+
+
 > [!WARNING]
-> > IP used in this example is randomaly generated it's not represent a particular person IP.
+> IP used in this example is randomaly generated it's not represent a particular person IP.
 > https://www.ipvoid.com/random-ip/
