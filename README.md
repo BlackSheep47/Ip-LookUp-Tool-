@@ -20,5 +20,9 @@ This tool create a `.json` file and store all the infromation in it for your tar
 ![Screenshot 2024-11-15 123635](https://github.com/user-attachments/assets/68c31486-9baa-422c-b239-07731de20d28)
 
 > [!Note]
-> IP used in this example is randomaly generated it's not represent a particular person IP.
+> Special Thank you
+> https://github.com/EbolaMan-YT for color grading text code in batch
+> 
+> [!WARNING]
+> > IP used in this example is randomaly generated it's not represent a particular person IP.
 > https://www.ipvoid.com/random-ip/
